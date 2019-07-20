@@ -13,4 +13,4 @@
 References:
   1) https://www.tutorialspoint.com
   2) https://www.geeksforgeeks.org
-  3) Java Design Patterns 2019
+  3) Java Design Patterns: A Hands-On Experience with Real-World Examples 2019
