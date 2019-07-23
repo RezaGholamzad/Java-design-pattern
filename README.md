@@ -6,6 +6,7 @@
 4) builder pattern
 5) prototype pattern
 6) adapter pattern
+7) observer pattern
 
 
 
