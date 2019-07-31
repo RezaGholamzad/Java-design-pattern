@@ -7,7 +7,8 @@
 5) prototype pattern
 6) adapter pattern
 7) observer pattern
-
+8) bridge pattern
+9) proxy pattern
 
 
 
