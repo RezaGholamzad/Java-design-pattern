@@ -1,4 +1,4 @@
-# Java-design-pattern
+# Java-design-patterns
 
 1) factory pattern
 2) abstract factory pattern
