@@ -10,7 +10,7 @@
 8) bridge pattern
 9) proxy pattern
 10) decorator pattern
-
+11) Facade pattern
 
 
 References:
