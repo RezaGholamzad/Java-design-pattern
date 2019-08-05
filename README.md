@@ -11,7 +11,7 @@
 9) proxy pattern
 10) decorator pattern
 11) Facade pattern
-
+12) flyweight pattern
 
 References:
   1) https://www.tutorialspoint.com
