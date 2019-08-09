@@ -12,6 +12,7 @@
 10) decorator pattern
 11) Facade pattern
 12) flyweight pattern
+13) composit pattern
 
 References:
   1) https://www.tutorialspoint.com
