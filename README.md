@@ -13,6 +13,8 @@
 11) Facade pattern
 12) flyweight pattern
 13) composit pattern
+14) visitor pattern
+15) strategy pattern
 
 References:
   1) https://www.tutorialspoint.com
