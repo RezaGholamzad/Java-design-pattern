@@ -15,6 +15,7 @@
 13) composit pattern
 14) visitor pattern
 15) strategy pattern
+16) template pattern
 
 References:
   1) https://www.tutorialspoint.com
