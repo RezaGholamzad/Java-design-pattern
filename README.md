@@ -16,6 +16,7 @@
 14) visitor pattern
 15) strategy pattern
 16) template pattern
+17) command pattern
 
 References:
   1) https://www.tutorialspoint.com
