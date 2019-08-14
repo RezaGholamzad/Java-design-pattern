@@ -17,6 +17,7 @@
 15) strategy pattern
 16) template pattern
 17) command pattern
+18) iterator pattern
 
 References:
   1) https://www.tutorialspoint.com
