@@ -18,6 +18,7 @@
 16) template pattern
 17) command pattern
 18) iterator pattern
+19) memento pattern
 
 References:
   1) https://www.tutorialspoint.com
